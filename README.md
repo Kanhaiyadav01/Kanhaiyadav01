@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing BTech in AI and machine learning.<br>I'm a Full-Stack MERN developer with knowledge of AI and Machine Learning.<br>I'm open to collaborate on projects.<br>I'm currently Grinding on DSA.
+Curious and passionate Full Stack Developer with hands-on experience in MERN stack and AI-powered applications. Built real-world projects like an AI Resume Matcher with Job Description analysis and a DSA Spaced Repetition platform for smart revision tracking. Enthusiastic about solving practical problems through scalable web and AI solutions.
 
 
 ## 🌐 Socials:
