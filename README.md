@@ -1,5 +1,5 @@
 # 💫 About Me:
-Curious and passionate Full Stack Developer with hands-on experience in MERN stack and AI-powered applications. Built real-world projects like an AI Resume Matcher with Job Description analysis and a DSA Spaced Repetition platform for smart revision tracking. Enthusiastic about solving practical problems through scalable web and AI solutions.
+Hi, I'm Kanhaiya Yadav  a B.Tech AI/ML student and Full Stack Developer who enjoys turning ideas into scalable, user-focused products. I've built several real-world projects and am constantly deepening my knowledge of backend engineering, system design, and software architecture. I'm driven by the challenge of solving complex problems and aspire to build reliable systems that create meaningful impact at scale.
 
 
 ## 🌐 Socials:
